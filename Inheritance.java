@@ -1,6 +1,6 @@
 package OOPSRepo;
 
-public class Inheritance {
+public class  Inheritance {
     String name ;
     Float Price;
 
